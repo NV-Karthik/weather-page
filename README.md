@@ -1,2 +1,2 @@
 # weather-page
-Forecasts weather using AccuWeather api
+A simple webpage to forecast weather in a city using AccuWeather api
